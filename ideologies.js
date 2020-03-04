@@ -162,7 +162,7 @@ ideologies = [
         }
     },
     {
-        "name": "เสรีนิยมทางสังคม/สังคมนิยมเสรี (Social Liberalism)",
+        "name": "เสรีนิยมเพื่อสังคม (Social Liberalism)",
         "stats": {
             "econ": 60,
             "dipl": 60,
