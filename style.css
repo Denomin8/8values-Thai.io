@@ -17,7 +17,7 @@ p {
     color: #444444;
     font-family: 'Roboto', sans-serif;
     font-size: 20pt;
-    line-height: 12pt;
+    line-height: 6pt;
     margin: 4pt;
 }
 p.value-description {
@@ -25,7 +25,7 @@ p.value-description {
     margin-left: 20pt;
 }
 p.question {
-    margin: 20pt auto;
+    margin: 16pt auto;
     color: #333333;
     font-family: 'Chakra Petch', sans-serif;
     font-weight: normal;
@@ -33,8 +33,8 @@ p.question {
     min-width: 500pt;
     min-height: 144pt;
     background-color: #eeeeee;
-    padding: 20pt;
-    border-radius: 20pt;
+    padding: 16pt;
+    border-radius: 16pt;
     font-size: 36pt;
     display: flex;
     justify-content: center;
