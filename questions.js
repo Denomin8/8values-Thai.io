@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "ถ้ายกเลิกระบบสังคมสงเคราะห์ (Social programs) โดยภาครัฐ แล้วหันมาพึ่งพาการบริจาคภาคเอกชนทั้งหมดจะดีที่สุด",
+        "question": "ถ้ายกเลิกระบบสังคมสงเคราะห์ (Social Programs) โดยภาครัฐ แล้วหันมาพึ่งพาการบริจาคภาคเอกชนทั้งหมดจะดีที่สุด",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -126,7 +126,7 @@ questions = [
         }
     },
     {
-        "question": "แรงงานที่ทำการผลิตควรเป็นเจ้าของปัจจัยการผลิต (Means of production)",
+        "question": "แรงงานที่ทำการผลิตควรเป็นเจ้าของปัจจัยการผลิต (Means of Production)",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -207,7 +207,7 @@ questions = [
         }
     },
     {
-        "question": "เงินช่วยเหลือระหว่างประเทศ (International aid) ถือเป็นความสิ้นเปลือง",
+        "question": "เงินช่วยเหลือระหว่างประเทศ (International Aid) ถือเป็นความสิ้นเปลือง",
         "effect": {
             "econ": -5,
             "dipl": -10,
@@ -261,7 +261,7 @@ questions = [
         }
     },
     {
-        "question": "ค่านิยมของชาติ (National Values)เราควรเผยแพร่ออกไปให้มากที่สุดเท่าที่จะมากได้",
+        "question": "ค่านิยมของชาติ (National Values) เราควรเผยแพร่ออกไปให้มากที่สุดเท่าที่จะมากได้",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -270,7 +270,7 @@ questions = [
         }
     },
     {
-        "question": "เป็นสิ่งสำคัญอย่างยิ่งที่จะรักษาไว้ซึ่งกฎหมายและคำสั่ง ( law and order )",
+        "question": "เป็นสิ่งสำคัญอย่างยิ่งที่จะรักษาไว้ซึ่งกฎหมายและคำสั่ง ( Law and Order )",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -306,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "การสอดแนมมวลชนโดยรัฐ (Government Surveillance)เป็นสิ่งจำเป็นในโลกยุคใหม่",
+        "question": "การสอดแนมมวลชนโดยรัฐ (Government Surveillance) เป็นสิ่งจำเป็นในโลกยุคใหม่",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -315,7 +315,7 @@ questions = [
         }
     },
     {
-        "question": "การมีอยู่ของรัฐ (State)ถือเป็นภัยคุกคามต่อเสรีภาพของเรา",
+        "question": "การมีอยู่ของรัฐ (State) ถือเป็นภัยคุกคามต่อเสรีภาพของเรา",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -342,7 +342,7 @@ questions = [
         }
     },
     {
-        "question": "รัฐที่มีโครงสร้างเป็นลำดับชั้น (Hierarchical state)ดีที่สุด",
+        "question": "รัฐที่มีโครงสร้างเป็นลำดับชั้น (Hierarchical state) ดีที่สุด",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -387,7 +387,7 @@ questions = [
         }
     },
     {
-        "question": "โลกนี้จะดีขึ้นกว่านี้ก็ด้วย ปัญญาประดิษฐ์(A.I.) วิทยาศาสตร์ และเทคโนโลยี",
+        "question": "โลกนี้จะดีขึ้นกว่านี้ก็ด้วย ปัญญาประดิษฐ์ (A.I.) วิทยาศาสตร์ และเทคโนโลยี",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -396,7 +396,7 @@ questions = [
         }
     },
     {
-        "question": "เด็กๆควรได้รับปลูกฝังค่านิยมด้านศาสนา (Religious Values)และค่านิยมดั้งเดิม (Traditional values) ของเรา",
+        "question": "เด็กๆควรได้รับปลูกฝังค่านิยมด้านศาสนา (Religious Values) และค่านิยมดั้งเดิม (Traditional values) ของเรา",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -441,7 +441,7 @@ questions = [
         }
     },
     {
-        "question": "การที่ทั้งโลกจะจับมือกันเพื่อรับมือกับการเปลี่ยนแปลงสภาพภูมิอากาศ (Climate Change)เป็นสิ่งที่สำคัญ",
+        "question": "การที่ทั้งโลกจะจับมือกันเพื่อรับมือกับการเปลี่ยนแปลงสภาพภูมิอากาศ (Climate Change) เป็นสิ่งที่สำคัญ",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -549,7 +549,7 @@ questions = [
         }
     },
     {
-        "question": "ฉันสนับสนุนหลักประกันสุขภาพถ้วนหน้า (Single Payer Universal Healthcare)โดยรัฐ",
+        "question": "ฉันสนับสนุนหลักประกันสุขภาพถ้วนหน้า (Single Payer Universal Healthcare) โดยรัฐ",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -567,7 +567,7 @@ questions = [
         }
     },
     {
-        "question": "การรักษาคุณค่าสถาบันครอบครัว ( Family values)เป็นสิ่งจำเป็น",
+        "question": "การรักษาคุณค่าสถาบันครอบครัว ( Family values) เป็นสิ่งจำเป็น",
         "effect": {
             "econ": 0,
             "dipl": 0,
