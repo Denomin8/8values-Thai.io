@@ -1,21 +1,20 @@
 <head>
-<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
-<link href='style.css' rel='stylesheet' type='text/css'>
-<title>ชุดคำถาม 8values</title>
-<link rel="icon" type="x-icon" href="icon.png">
-<link rel="shortcut icon" type="x-icon" href="icon.png">
-<meta charset="utf-8">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-6511426299019766",
-    enable_page_level_ads: true
-  });
-</script>
+    <link href="https://fonts.googleapis.com/css?family=Chakra+Petch:400,500,700&display=swap" rel="stylesheet">
+    <link href='style.css' rel='stylesheet' type='text/css'>
+    <title>ชุดคำถาม 8values</title>
+    <link rel="icon" type="x-icon" href="icon.png">
+    <link rel="shortcut icon" type="x-icon" href="icon.png">
+    <meta charset="utf-8">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-6511426299019766",
+            enable_page_level_ads: true
+        });
+    </script>
 </head>
-<body>
-<script type="application/javascript"
-        src="questions.js">
+<link href="https://fonts.googleapis.com/css?family=Chakra+Petch:400,500,700&display=swap" rel="stylesheet">
+<script type="application/javascript" src="questions.js">
 </script>
 <h1>8values</h1>
 <hr>
@@ -25,26 +24,27 @@
 <button class="button" onclick="next_question( 0.5)" style="background-color: #4caf50;">เห็นด้วย</button> <br>
 <button class="button" onclick="next_question( 0.0)" style="background-color: #bbbbbb;">กลางๆ / ไม่แน่ใจ</button> <br>
 <button class="button" onclick="next_question(-0.5)" style="background-color: #f44336;">ไม่เห็นด้วย</button> <br>
-<button class="button" onclick="next_question(-1.0)" style="background-color: #b71c1c;">ไม่เห็นด้วยอย่างยิ่ง</button> <br>
+<button class="button" onclick="next_question(-1.0)" style="background-color: #b71c1c;">ไม่เห็นด้วยอย่างยิ่ง</button>
+<br>
 <button class="small_button" onclick="prev_question()" id="back_button">ย้อนกลับ</button>
 <button class="small_button_off" id="back_button_off">ย้อนกลับ</button><br>
 
 <!-- Website visit statistics - no personal information is collected! -->
 <script type="text/javascript">
-var sc_project=11325211;
-var sc_invisible=1;
-var sc_security="fd9f0659";
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
+    var sc_project = 11325211;
+    var sc_invisible = 1;
+    var sc_security = "fd9f0659";
+    var scJsHost = (("https:" == document.location.protocol) ?
+        "https://secure." : "http://www.");
+    document.write("<sc" + "ript type='text/javascript' src='" +
+        scJsHost +
+        "statcounter.com/counter/counter.js'></" + "script>");
 </script>
-<noscript><div class="statcounter"><a title="web stats"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="//c.statcounter.com/11325211/0/fd9f0659/1/" alt="web
-stats"></a></div></noscript>
+<noscript>
+    <div class="statcounter"><a title="web stats" href="http://statcounter.com/" target="_blank"><img
+                class="statcounter" src="//c.statcounter.com/11325211/0/fd9f0659/1/" alt="web
+stats"></a></div>
+</noscript>
 
 <!-- JavaScript for the test itself -->
 <script>
@@ -75,10 +75,10 @@ stats"></a></div></noscript>
     }
 
     function next_question(mult) {
-        econ += mult*questions[qn].effect.econ
-        dipl += mult*questions[qn].effect.dipl
-        govt += mult*questions[qn].effect.govt
-        scty += mult*questions[qn].effect.scty
+        econ += mult * questions[qn].effect.econ
+        dipl += mult * questions[qn].effect.dipl
+        govt += mult * questions[qn].effect.govt
+        scty += mult * questions[qn].effect.scty
         qn++;
         prev_answer = mult;
         if (qn < questions.length) {
@@ -100,15 +100,15 @@ stats"></a></div></noscript>
         init_question();
 
     }
-    function calc_score(score,max) {
-        return (100*(max+score)/(2*max)).toFixed(1)
+    function calc_score(score, max) {
+        return (100 * (max + score) / (2 * max)).toFixed(1)
     }
     function results() {
         location.href = `results.html`
-            + `?e=${calc_score(econ,max_econ)}`
-            + `&d=${calc_score(dipl,max_dipl)}`
-            + `&g=${calc_score(govt,max_govt)}`
-            + `&s=${calc_score(scty,max_scty)}`
+            + `?e=${calc_score(econ, max_econ)}`
+            + `&d=${calc_score(dipl, max_dipl)}`
+            + `&g=${calc_score(govt, max_govt)}`
+            + `&s=${calc_score(scty, max_scty)}`
     }
 </script>
 </body>
