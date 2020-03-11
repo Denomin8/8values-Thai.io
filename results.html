@@ -134,7 +134,7 @@ stats"></a></div></noscript>
     document.getElementById("society-label").innerHTML = setLabel(progress, sctyArray)
 
     ideology1 = ""
-	ideology2 = ""
+    ideology2 = ""
     ideodist = Infinity
     for (var i = 0; i < ideologies.length; i++) {
         dist = 0
@@ -144,12 +144,12 @@ stats"></a></div></noscript>
         dist += Math.pow(Math.abs(ideologies[i].stats.scty - progress), 1.73856063)
         if (dist < ideodist) {
             ideology1 = ideologies[i].name1
-			ideology2 = ideologies[i].name2
+	    ideology2 = ideologies[i].name2
             ideodist = dist
         }
     }
     document.getElementById("ideology-label1").innerHTML = ideology1
-	document.getElementById("ideology-label2").innerHTML = ideology2
+    document.getElementById("ideology-label2").innerHTML = ideology2
 
     function createImage(src, x, y, w, h) {
         img = new Image ()
@@ -211,7 +211,7 @@ stats"></a></div></noscript>
         ctx.fillText("8values", 20, 90)
         ctx.font="50px Montserrat"
         ctx.fillText(ideology1, 20, 140)
-		ctx.font="50px Montserrat"
+	ctx.font="50px Montserrat"
         ctx.fillText(ideology2, 20, 140)
 
         ctx.textAlign="left"
@@ -227,7 +227,7 @@ stats"></a></div></noscript>
 
         ctx.font="300 30px Montserrat"
         ctx.fillText("8values.github.io", 780, 60)
-		ctx.fillText(version, 780, 90)
+	ctx.fillText(version, 780, 90)
         ctx.textAlign="center"
         ctx.fillText("Economic Axis: " + document.getElementById("economic-label").innerHTML, 400, 175)
         ctx.fillText("Diplomatic Axis: " + document.getElementById("diplomatic-label").innerHTML, 400, 295)
