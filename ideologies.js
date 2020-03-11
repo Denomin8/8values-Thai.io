@@ -1,6 +1,7 @@
 ideologies = [
     {
-        "name": "ลัทธิอนาธิปไตย-คอมมิวนิสต์ (Anarcho-Communism)",
+        "name1": "ลัทธิอนาธิปไตย-คอมมิวนิสต์ ",
+		"name2": "Anarcho-Communism)",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -9,7 +10,8 @@ ideologies = [
         }
     },
     {
-        "name": "คอมมิวนิสต์อิสรนิยม (Libertarian Communism)",
+        "name1": "คอมมิวนิสต์อิสรนิยม ",
+		"name2": "(Libertarian Communism)",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -18,7 +20,8 @@ ideologies = [
         }
     },
     {
-        "name": "ลัทธิทรอตสกี้ (Trotskyism)",
+        "name1": "ลัทธิทรอตสกี้ ",
+		"name2": "(Trotskyism)",
         "stats": {
             "econ": 100,
             "dipl": 100,
@@ -27,7 +30,8 @@ ideologies = [
         }
     },
     {
-        "name": "ลัทธิมากซ์ (Marxism)",
+        "name1": "ลัทธิมากซ์ ",
+		"name2": "(Marxism)",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -36,7 +40,8 @@ ideologies = [
         }
     },
     {
-        "name": "ลัทธิเดอเลออน (De Leonism)",
+        "name1": "ลัทธิเดอเลออน ",
+		"name2": "(De Leonism)",
         "stats": {
             "econ": 100,
             "dipl": 30,
@@ -45,7 +50,8 @@ ideologies = [
         }
     },
     {
-        "name": "ลัทธิเลนิน (Leninism)",
+        "name1": "ลัทธิเลนิน ",
+		"name2": "(Leninism)",
         "stats": {
             "econ": 100,
             "dipl": 40,
@@ -54,7 +60,8 @@ ideologies = [
         }
     },
     {
-        "name": "ลัทธิสตาลิน/เหมา (Stalinism/Maoism)",
+        "name1": "ลัทธิสตาลิน/เหมา ",
+		"name2": "(Stalinism/Maoism)",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -63,7 +70,8 @@ ideologies = [
         }
     },
     {
-        "name": "คอมมิวนิสต์แบบนับถือศาสนา (Religious Communism)",
+        "name1": "คอมมิวนิสต์แบบนับถือศาสนา ",
+		"name2": "(Religious Communism)",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -72,7 +80,8 @@ ideologies = [
         }
     },
     {
-        "name": "สังคมนิยมรัฐ (State Socialism)",
+        "name1": "สังคมนิยมรัฐ ",
+		"name2": "(State Socialism)",
         "stats": {
             "econ": 80,
             "dipl": 30,
@@ -81,7 +90,8 @@ ideologies = [
         }
     },
     {
-        "name": "สังคมนิยมแบบเทวาธิปไตย (Theocratic Socialism)",
+        "name1": "สังคมนิยมแบบเทวาธิปไตย ",
+		"name2": "(Theocratic Socialism)",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -90,7 +100,8 @@ ideologies = [
         }
     },
     {
-        "name": "สังคมนิยมแบบนับถือศาสนา (Religious Socialism)",
+        "name1": "สังคมนิยมแบบนับถือศาสนา",
+		"name2": "(Religious Socialism)",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -99,7 +110,8 @@ ideologies = [
         }
     },
     {
-        "name": "สังคมนิยมแบบประชาธิปไตย (Democratic Socialism)",
+        "name1": "สังคมนิยมแบบประชาธิปไตย ",
+		"name2": "(Democratic Socialism)",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -108,7 +120,8 @@ ideologies = [
         }
     },
     {
-        "name": "ปฏิวัติสังคมนิยม (Revolutionary Socialism)",
+        "name1": "ปฏิวัติสังคมนิยม ",
+		"name2": "(Revolutionary Socialism)",
         "stats": {
             "econ": 80,
             "dipl": 20,
@@ -117,7 +130,8 @@ ideologies = [
         }
     },
     {
-        "name": "สังคมนิยมแบบอิสรนิยม (Libertarian Socialism)",
+        "name1": "สังคมนิยมแบบอิสรนิยม",
+		"name2": "(Libertarian Socialism)",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -126,7 +140,8 @@ ideologies = [
         }
     },
     {
-        "name": "สหการอนาธิปไตย (Anarcho-Syndicalism)",
+        "name1": "สหการอนาธิปไตย",
+		"name2": "(Anarcho-Syndicalism)",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -135,7 +150,8 @@ ideologies = [
         }
     },
     {
-        "name": "ประชานิยมฝ่ายซ้าย (Left-Wing Populism)",
+        "name1": "ประชานิยมฝ่ายซ้าย ",
+		"name2": "(Left-Wing Populism)",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -144,7 +160,8 @@ ideologies = [
         }
     },
     {
-        "name": "เทวธรรมาธิปไตยแบบคาธอลิค (Theocratic Distributism)",
+        "name1": "เทวธรรมาธิปไตยแบบคาธอลิค ",
+		"name2": "(Theocratic Distributism)",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -153,7 +170,8 @@ ideologies = [
         }
     },
     {
-        "name": "ธรรมาธิปไตยแบบคาธอลิค (Distributism)",
+        "name1": "ธรรมาธิปไตยแบบคาธอลิค ",
+		"name2": "(Distributism)",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -162,7 +180,8 @@ ideologies = [
         }
     },
     {
-        "name": "เสรีนิยมเพื่อสังคม (Social Liberalism)",
+        "name1": "เสรีนิยมทางสังคม/สังคมนิยมเสรี ",
+		"name2": "(Social Liberalism)",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -171,7 +190,8 @@ ideologies = [
         }
     },
     {
-        "name": "ประชาธิปไตยแบบคริสต์ (Christian Democracy)",
+        "name1": "ประชาธิปไตยแบบคริสต์ ",
+		"name2": "(Christian Democracy)",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -180,7 +200,8 @@ ideologies = [
         }
     },
     {
-        "name": "ประชาธิปไตยสังคมนิยม (Social Democracy)",
+        "name1": "ประชาธิปไตยสังคมนิยม",
+		"name2": "(Social Democracy)",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -189,7 +210,8 @@ ideologies = [
         }
     },
     {
-        "name": "พิพัฒนนิยม (Progressivism)",
+        "name1": "พิพัฒนนิยม ",
+		"name2": "(Progressivism)",
         "stats": {
             "econ": 60,
             "dipl": 80,
@@ -198,7 +220,8 @@ ideologies = [
         }
     },
     {
-        "name": "อนาธิปไตยแบบเกื้อกูลนิยม (Anarcho-Mutualism)",
+        "name1": "อนาธิปไตยแบบเกื้อกูลนิยม ",
+		"name2": "(Anarcho-Mutualism)",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -207,7 +230,8 @@ ideologies = [
         }
     },
     {
-        "name": "เผด็จการเบ็ดเสร็จนิยมแบบชาตินิยม (National Totalitarianism)",
+        "name1": "เผด็จการเบ็ดเสร็จนิยมแบบชาตินิยม ",
+		"name2": "(National Totalitarianism)",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -216,7 +240,8 @@ ideologies = [
         }
     },
     {
-        "name": "เผด็จการเบ็ดเสร็จนิยมแบบทั้งโลก (Global Totalitarianism)",
+        "name1": "เผด็จการเบ็ดเสร็จนิยมแบบทั้งโลก ",
+		"name2": "(Global Totalitarianism)",
         "stats": {
             "econ": 50,
             "dipl": 80,
@@ -225,7 +250,8 @@ ideologies = [
         }
     },
     {
-        "name": "คตินิยมนักวิชาการ (Technocracy)",
+        "name1": "คตินิยมนักวิชาการ ",
+		"name2": "(Technocracy)",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -234,7 +260,8 @@ ideologies = [
         }
     },
     {
-        "name": "สายกลาง (Centrist)",
+        "name1": "สายกลาง ",
+		"name2": "(Centrist)",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -243,7 +270,8 @@ ideologies = [
         }
     },
     {
-        "name": "เสรีนิยม (Liberalism)",
+        "name1": "เสรีนิยม ",
+		"name2": "(Liberalism)",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -252,7 +280,8 @@ ideologies = [
         }
     },
     {
-        "name": "อนาธิปไตยแบบนับถือศาสนา (Religious Anarchism)",
+        "name1": "อนาธิปไตยแบบนับถือศาสนา ",
+		"name2": "(Religious Anarchism)",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -261,7 +290,8 @@ ideologies = [
         }
     },
     {
-        "name": "ประชานิยมฝ่ายขวา (Right-Wing Populism)",
+        "name1": "ประชานิยมฝ่ายขวา ",
+		"name2": "(Right-Wing Populism)",
         "stats": {
             "econ": 40,
             "dipl": 30,
@@ -270,7 +300,8 @@ ideologies = [
         }
     },
     {
-        "name": "อนุรักษ์นิยมสายกลาง (Moderate Conservatism)",
+        "name1": "อนุรักษ์นิยมสายกลาง ",
+		"name2": "(Moderate Conservatism)",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -279,7 +310,8 @@ ideologies = [
         }
     },
     {
-        "name": "กลุ่มปฎิกิริยาหรือปฏิการณ์ (Reactionary)",
+        "name1": "กลุ่มปฎิกิริยาหรือปฏิการณ์ ",
+		"name2": "(Reactionary)",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -288,7 +320,8 @@ ideologies = [
         }
     },
     {
-        "name": "อิสรนิยมแบบสังคมนิยม (Social Libertarianism)",
+        "name1": "อิสรนิยมแบบสังคมนิยม",
+		"name2": "(Social Libertarianism)",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -297,7 +330,8 @@ ideologies = [
         }
     },
     {
-        "name": "อิสรนิยม (Libertarianism)",
+        "name1": "อิสรนิยม",
+		"name2": "(Libertarianism)",
         "stats": {
             "econ": 40,
             "dipl": 60,
@@ -306,7 +340,8 @@ ideologies = [
         }
     },
     {
-        "name": "อนาธิปไตยแบบอัตตานิยม (Anarcho-Egoism)",
+        "name1": "อนาธิปไตยแบบอัตตานิยม",
+		"name2": " (Anarcho-Egoism)",
         "stats": {
             "econ": 40,
             "dipl": 50,
@@ -315,7 +350,8 @@ ideologies = [
         }
     },
     {
-        "name": "นาซี (Nazism)",
+        "name1": "นาซี",
+		"name2": "(Nazism)",
         "stats": {
             "econ": 40,
             "dipl": 0,
@@ -324,7 +360,8 @@ ideologies = [
         }
     },
     {
-        "name": "อัตตาธิปไตย (Autocracy)",
+        "name1": "อัตตาธิปไตย",
+		"name2": "(Autocracy)",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -333,7 +370,8 @@ ideologies = [
         }
     },
     {
-        "name": "ฟาสซิสต์ (Fascism)",
+        "name1": "ฟาสซิสต์",
+		"name2": "(Fascism)",
         "stats": {
             "econ": 40,
             "dipl": 20,
@@ -342,7 +380,8 @@ ideologies = [
         }
     },
     {
-        "name": "ฟาสซิสต์แบบทุนนิยม (Capitalist Fascism)",
+        "name1": "ฟาสซิสต์แบบทุนนิยม",
+		"name2": "(Capitalist Fascism)",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -351,7 +390,8 @@ ideologies = [
         }
     },
     {
-        "name": "อนุรักษ์นิยม (Conservatism)",
+        "name1": "อนุรักษ์นิยม",
+		"name2": "(Conservatism)",
         "stats": {
             "econ": 30,
             "dipl": 40,
@@ -360,7 +400,8 @@ ideologies = [
         }
     },
     {
-        "name": "เสรีนิยมใหม่ (Neo-Liberalism)",
+        "name1": "เสรีนิยมใหม่",
+		"name2": "(Neo-Liberalism)",
         "stats": {
             "econ": 30,
             "dipl": 30,
@@ -369,7 +410,8 @@ ideologies = [
         }
     },
     {
-        "name": "เสรีนิยมดั้งเดิม (Classical Liberalism)",
+        "name1": "เสรีนิยมดั้งเดิม",
+		"name2": "(Classical Liberalism)",
         "stats": {
             "econ": 30,
             "dipl": 60,
@@ -378,7 +420,8 @@ ideologies = [
         }
     },
     {
-        "name": "ทุนนิยมแบบอำนาจนิยม (Authoritarian Capitalism)",
+        "name1": "ทุนนิยมแบบอำนาจนิยม",
+		"name2": "(Authoritarian Capitalism)",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -387,7 +430,8 @@ ideologies = [
         }
     },
     {
-        "name": "ทุนนิยมรัฐ (State Capitalism)",
+        "name1": "ทุนนิยมรัฐ",
+		"name2": "(State Capitalism)",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -396,7 +440,8 @@ ideologies = [
         }
     },
     {
-        "name": "อนุรักษ์นิยมใหม่ (Neo-Conservatism)",
+        "name1": "อนุรักษ์นิยมใหม่",
+		"name2": "(Neo-Conservatism)",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -405,7 +450,8 @@ ideologies = [
         }
     },
     {
-        "name": "มูลฐานนิยม (Fundamentalism)",
+        "name1": "มูลฐานนิยม",
+		"name2": "(Fundamentalism)",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -414,7 +460,8 @@ ideologies = [
         }
     },
     {
-        "name": "ทุนนิยมแบบอิสรนิยม (Libertarian Capitalism)",
+        "name1": "ทุนนิยมแบบอิสรนิยม",
+		"name2": "(Libertarian Capitalism)",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -423,7 +470,8 @@ ideologies = [
         }
     },
     {
-        "name": "อนาธิปไตยแบบตลาดเสรี (Market Anarchism)",
+        "name1": "อนาธิปไตยแบบตลาดเสรี",
+		"name2": "(Market Anarchism)",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -432,7 +480,8 @@ ideologies = [
         }
     },
     {
-        "name": "วัตถุวิสัยนิยม (Objectivism)",
+        "name1": "วัตถุวิสัยนิยม",
+		"name2": "(Objectivism)",
         "stats": {
             "econ": 10,
             "dipl": 50,
@@ -441,7 +490,8 @@ ideologies = [
         }
     },
     {
-        "name": "ทุนนิยมแบบเผด็จการเบ็ดเสร็จ (Totalitarian Capitalism)",
+        "name1": "ทุนนิยมแบบเผด็จการเบ็ดเสร็จ",
+		"name2": "(Totalitarian Capitalism)",
         "stats": {
             "econ": 0,
             "dipl": 30,
@@ -450,7 +500,8 @@ ideologies = [
         }
     },
     {
-        "name": "ทุนนิยมล้นเกิน (Ultra-Capitalism)",
+        "name1": "ทุนนิยมล้นเกิน",
+		"name2": "(Ultra-Capitalism)",
         "stats": {
             "econ": 0,
             "dipl": 40,
@@ -459,7 +510,8 @@ ideologies = [
         }
     },
     {
-        "name": "ทุนนิยมอนาธิปไตย (Anarcho-Capitalism)",
+        "name1": "ทุนนิยมอนาธิปไตย",
+		"name2": "(Anarcho-Capitalism)",
         "stats": {
             "econ": 0,
             "dipl": 50,
